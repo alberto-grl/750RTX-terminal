@@ -1,0 +1,4 @@
+rtx_term
+.venv/
+__pycache__/
+*.o
